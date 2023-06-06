@@ -1,2 +1,12 @@
 ### Описание белка
-Белок NP_001230715.1, получающийся по гену RAG2 (https://genome.ucsc.edu/cgi-bin/hgc?hgsid=1640679168_uQmWgXNxlLN40x5fVJEmMjNxb0Y3&db=hg19&c=chr11&l=36607155&r=36626166&o=36613492&t=36619786&g=ncbiRefSeqCurated&i=NM_001243786.2).
+Белок NP_001230715.1, получающийся по гену RAG2 (https://genome.ucsc.edu/cgi-bin/hgc?hgsid=1640679168_uQmWgXNxlLN40x5fVJEmMjNxb0Y3&db=hg19&c=chr11&l=36607155&r=36626166&o=36613492&t=36619786&g=ncbiRefSeqCurated&i=NM_001243786.2). Этот ген участвует в чтении метилирования H3K4Me, согласно статьям, например, 1) https://www.pnas.org/doi/abs/10.1073/pnas.0709170104 и 2) https://www.nature.com/articles/nature06431.
+
+### Выравнивания гистонов
+Выравнивания я делал в локальной MEGAX. Результаты в виде файлов загружены в репозиторий, ниже привожу скриншоты, на которых видны основные вещи.
+
+### Таблички и хитмэп
+#### Табличка e-value (raw)
+#### Табличка -log(e-value) (natural logarithm)
+#### Хитмэп последней таблички
+
+### Вывод о появлении в эволюции
