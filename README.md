@@ -8,6 +8,7 @@
 
 #### H2B
 ![image](https://github.com/robibistspark/hse23_indiv_proj/assets/71763293/e89267d0-b52f-4838-abc4-097e883a94db)
+Некоторые варианты генов этого гистона отличаются вставками, но весьма короткими и, вероятно, не имеющими значение.
 
 #### H3
 ![image](https://github.com/robibistspark/hse23_indiv_proj/assets/71763293/b41a49a7-e226-4779-8eca-0f8a3a63a3f2)
