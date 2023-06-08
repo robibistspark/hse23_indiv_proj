@@ -24,13 +24,13 @@
 
 ### Таблички и хитмэп
 #### Табличка e-value (raw)
-![image](https://github.com/robibistspark/hse23_indiv_proj/assets/71763293/f274846d-4a75-468d-bc52-7b3ce5593785)
+![image](https://github.com/robibistspark/hse23_indiv_proj/assets/71763293/49a9b788-aed4-4f69-91a2-9c6bf6026752)
 
 #### Табличка -log(e-value) (natural logarithm)
-![image](https://github.com/robibistspark/hse23_indiv_proj/assets/71763293/24ad5498-98a5-4787-9b15-1ce52f0e3fc8)
+![image](https://github.com/robibistspark/hse23_indiv_proj/assets/71763293/fce1fdb0-f9a4-499c-82b8-842d5c7fa1c5)
 
 #### Хитмэп последней таблички
-![image](https://github.com/robibistspark/hse23_indiv_proj/assets/71763293/bd9f0791-cdcd-474f-8668-6889c643cce2)
+![image](https://github.com/robibistspark/hse23_indiv_proj/assets/71763293/7905ae5d-ff76-44ed-894c-9a19f8c201fd)
 
 ### Вывод о появлении в эволюции
 Наибольшее сходство в искомом белке наблюдается у многоклеточных позвоночных организмов, а у более "архаичных" организмов сходство очень незначительное. Можно сделать вывод о том, что мой белок (и его ген) появился в эволюции достаточно поздно, а именно, по-видимому, у позвоночных.
